@@ -1,4 +1,4 @@
-#Cupcake Shop Practice Site
+#Bored To Death
 
 ###A practice HTML/CSS website for Epicodus' Intro to Programming
 
@@ -6,15 +6,15 @@
 
 ##Description
 
-This is a website for a hypothetical World's Best Cupcake shop, designed to practice CSS classes.
+This is a website for a boring lecture on ..TBD
 
 ##Setup
 
-Clone this repository.
+**Clone this repository.**
 
-Open index.html in the web browser of your choice.
+**Open index.html in the web browser of your choice.**
 
-Marvel at the glorious code and delicious cupcakes.
+**Marvel at the glorious code and delicious cupcakes.**
 
 ##Technology
 
